@@ -37,6 +37,3 @@ jobs:
       - name: Test with pytest
         run: |
           make test
-      - name: Format Code
-        run: |
-          make format
